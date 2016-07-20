@@ -12,3 +12,4 @@ The current idea is to use a PoS tagged word tokenization to learn vector repres
 
 ## Additional Features
 It would also be nice to implement 'online' learning, i.e. the model is trained on streaming twitter data rather than batched. Also there should be a tie-in to a twitter API to let the bot post on its own. 
+# TP Lant Project
